@@ -1,0 +1,19 @@
+
+.content{
+  margin: 0 10px;
+  color: white;
+}
+
+.hoverImage{
+  transition: 0.3s;
+}
+
+.hoverImage:hover{
+  opacity: 0.6;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.active{
+  color: red;
+}
