@@ -1,4 +1,4 @@
-# gallery-photos
+# Galeria de Fotos 💾
  
 ## Projeto de uma galeria de fotos com sistema de pesquisa de imagens.
 
